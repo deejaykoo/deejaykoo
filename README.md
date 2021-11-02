@@ -1,6 +1,6 @@
 Hi, I’m @deejaykoo, you can call me deejay, koo or deejaykoo, whatever you're comfortable with.
 
-I made this github page to share my Korean translation txt files of a game called Guild Wars 2 to the public. 
+I made this github page to share my Korean translation txt files for a game called Guild Wars 2 to the public. 
 I am hoping my work will hlep other Koreans to be able to play Guild Wars 2 with a bit more immersion and without struggling to understand the stories of the game. 
 While I cannot upload the program that is required to translate the texts, I can upload the txt files from which the program can recognize and display the translated texts in real time.
 
